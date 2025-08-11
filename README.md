@@ -9,10 +9,3 @@
 </p>
 
 ![Metrics](github-metrics.svg)
-
-<h2 align="left">Support me</h2>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-<p><a href="https://www.buymeacoffee.com/hungngoc73"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="hungngoc73" /></a></p>
-<p><a href="https://ko-fi.com/hungngoc73"> <img align="right" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01cf2da94a032117b9_support_me_on_kofi_red.png" height="50" alt="hungngoc73" /></a></p>
-</div>
