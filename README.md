@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hung Le</h1>
+<h3 align="center">A passionate Software Engineer from Viet Nam</h3>
 
-<!--
-**hungngoc73/hungngoc73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/hungngoc73" target="_blank"><img src="https://komarev.com/ghpvc/?username=hungngoc73&label=Profile%20views&color=0e75b6&style=flat" alt="hungngoc73" /></a>
+  <a href="https://www.linkedin.com/in/hungngoc73/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-hungngoc73-0077B5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEUAl717ydz+/v684+3G5/Cy3+r5/P3///8Al72+5O55yNzt9/rh8vf9/v6DzN5zxdrx+fsDmL0sqMje8fbB5e4op8e14OvF5/BpwtgipcWu3em44uy64u3H6PCx3+qBy94Lm7+u3uovqsnE5u/2+/yCV68eAAAAAXRSTlP+GuMHfQAAAGJJREFUGNONzzcSgDAQA0AwYJ0Bk3NO/38jqbEZF6jTFjcnyyI9335DFMQ6JMh18MPGfKMt0xdqNpFgqwDC7AEXHglIMKBS4NiWEYECO9EMqYBDZAM/oeAdDby/PuTcPE7PCePeCSJkzvIGAAAAAElFTkSuQmCC&logoColor=white" alt="hungngoc73\" /> </a>
+  <a href="https://www.facebook.com/hungngoc73\47" target="_blank"><img src="https://img.shields.io/badge/Facebook-hungngoc7347-3b5998?logo=facebook&logoColor=white" alt="hungngoc73" /> </a>
+  <a href="mailto:nhaths4701@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-nhaths4701@gmail.com-red?logo=gmail&logoColor=white" alt="hungngoc73" /> </a>
+</p>
 
-Here are some ideas to get you started:
+![Metrics](github-metrics.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Support me</h2>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+<p><a href="https://www.buymeacoffee.com/hungngoc73"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="hungngoc73" /></a></p>
+<p><a href="https://ko-fi.com/hungngoc73"> <img align="right" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01cf2da94a032117b9_support_me_on_kofi_red.png" height="50" alt="hungngoc73" /></a></p>
+</div>
